@@ -11,7 +11,7 @@ touch .env
 ---------------------------------------------------------------------------
 **2. open the .env file and paste the below code**
 
-AZURE_OPENAI_ENDPOINT="[https://your-resource-name.openai.azure.com/](https://mtra-mkniyeyv-australiaeast.openai.azure.com/)"
+AZURE_OPENAI_ENDPOINT="https://mtra-mkniyeyv-australiaeast.openai.azure.com/"
 AZURE_OPENAI_API_KEY="3BfALkx7mNwBrBFgzyO0jTX0cQJ04ZcMu9TpMIsghD4Qla4acBzDJQQJ99CAACL93NaXJ3w3AAAAACOGTHso"
 AZURE_OPENAI_CHAT_DEPLOYMENT_NAME="gpt-4.1-mini"
 AZURE_OPENAI_API_VERSION="2024-12-01-preview"
